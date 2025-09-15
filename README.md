@@ -1,4 +1,4 @@
-![alt text](img/bookbot-final-project-demo.mp4)
+![alt text](img/image-3.png)
 
 ### Work done by <span style="color:#ECAD35">Mohammed Ashraf</span>, course and media are through <a href="https://www.boot.dev/">Boot.dev</a>!
 
