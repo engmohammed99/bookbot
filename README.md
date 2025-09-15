@@ -6,7 +6,7 @@
 
 # **Building my First Project from Boot.dev - The Bookbot**
 
-![](img/demo.gif)
+![](img/bookbot-final-project-demo)
 
 
 
